@@ -1,6 +1,7 @@
 # Django Weather App
 
-![Screenshot 2024-07-19 at 11 02 52 (2)](https://github.com/user-attachments/assets/2dbf66ca-75ec-43ad-83f9-f375cc4b3034)
+![Screenshot 2024-07-19 at 11 10 16 (2)](https://github.com/user-attachments/assets/030a92ab-ee42-452a-99f6-6c5126948f4e)
+
 
 
 Небольшое погодное приложение Ob, созданное на базе Django и Tailwind CSS.
